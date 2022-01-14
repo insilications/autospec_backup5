@@ -1,0 +1,8 @@
+__pycache__
+*.pyc
+*~
+*.swp
+tags
+.coverage
+htmlcov
+*.bak
